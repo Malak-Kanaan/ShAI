@@ -21,6 +21,7 @@
 ## Grouped Analysis:
 * I calculated the average salary by job title and by year.
 * I observed huge variations in compensation across different job titles and over time.
+![Correlation](https://github.com/Malak-Kanaan/ShAI/assets/58569038/6cb9a01f-1747-49f4-914c-caa050de5138)
 
 ## Simple Correlation Analysis:
 * The correlation coefficient between BasePay and TotalPay was calculated to be 0.954, indicating a strong positive linear relationship between the two variables.
